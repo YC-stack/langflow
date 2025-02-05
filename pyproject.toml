@@ -289,7 +289,3 @@ name = "your_project"
 version = "1.7.1"
 description = "A Python application"
 authors = ["Your Name <your@email.com>"]
-
-[build-system]
-requires = ["poetry-core"]
-build-backend = "poetry.core.masonry.api"
