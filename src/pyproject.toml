@@ -253,4 +253,5 @@ description = "A Python application"
 authors = ["Your Name <your@email.com>"]
 
 [tool.poetry.dependencies]
-gunicorn = "21.2.1"
+python = ">=3.5"
+gunicorn = "^21.2.0"
