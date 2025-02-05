@@ -245,3 +245,10 @@ dev = [
 
 [project.scripts]
 langflow-base = "langflow.__main__:main"
+
+[tool.poetry]
+name = "your_project_name"
+version = "0.1.0"
+description = "A Python project"
+authors = ["Your Name <your@email.com>"]
+
