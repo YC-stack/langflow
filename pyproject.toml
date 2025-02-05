@@ -284,6 +284,9 @@ ignore_missing_imports = true
 requires = ["hatchling"]
 build-backend = "hatchling.build"
 
+[project.scripts]
+langflow-base = "langflow.__main__:main"
+
 [tool.poetry]
 name = "your_project"
 version = "1.7.1"
