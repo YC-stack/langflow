@@ -248,7 +248,7 @@ langflow-base = "langflow.__main__:main"
 
 [tool.poetry]
 name = "your_project"
-version = "0.1.0"
+version = "1.7.1"
 description = "A Python application"
 authors = ["Your Name <your@email.com>"]
 
