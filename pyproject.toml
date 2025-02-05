@@ -289,3 +289,6 @@ name = "your_project"
 version = "1.7.1"
 description = "A Python application"
 authors = ["Your Name <your@email.com>"]
+
+[tool.poetry.dependencies]
+gunicorn = "^21.2.0"
